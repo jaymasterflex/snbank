@@ -1,0 +1,9 @@
+username: Michael147
+password: michaell
+email:michael@gmail.com
+full name: Michael Anthony
+
+username: James
+password: jamess
+email: james@gmail.com
+full name: James Anthony
